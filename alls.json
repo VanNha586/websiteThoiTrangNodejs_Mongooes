@@ -1,0 +1,257 @@
+[{
+  "_id": {
+    "$oid": "62309c87dce5bf27dab3d424"
+  },
+  "name": "áo thuân",
+  "price": "120000",
+  "image": "https://thoitrangmantis.com/wp-content/uploads/2019/01/ao-phong-co-tron-meo-3d1-ngoc.jpg",
+  "slug": "ao thuan",
+  "deleted": false,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648191105755"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6230a629dce5bf27dab3d425"
+  },
+  "name": "áo khoát",
+  "price": "300000",
+  "image": "https://i.pinimg.com/236x/91/91/a6/9191a6235747120af64704e5ddd150bd--%C3%A1o-kho%C3%A1c-nam-polo-jackets.jpg",
+  "slug": "ao khoat",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648176966725"
+    }
+  },
+  "deleted": false
+},{
+  "_id": {
+    "$oid": "6230a664dce5bf27dab3d426"
+  },
+  "name": "áo vest",
+  "price": "500000",
+  "image": "https://www.viettien.com.vn/admin/wp-content/uploads/2019/10/VEST-3.jpg",
+  "slug": "áo vest",
+  "deleted": false,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648191107108"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62320767f7f45bea3b7a84e9"
+  },
+  "name": "đồ công sở",
+  "price": "10000000",
+  "image": "https://xstdream.com/wp-content/uploads/2021/07/vest-3-e1625558099306.jpeg",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647445863697"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1647445863697"
+    }
+  },
+  "slug": "do cong so",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62426ecd3dff55b78b0a2f50"
+  },
+  "name": "dép",
+  "price": "30000000",
+  "image": "https://vcdn.tikicdn.com/ts/tmp/77/7d/c5/cbd3aa56037487a5543b1cffa9af4ccf.jpg",
+  "deleted": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648520909957"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648521476147"
+    }
+  },
+  "slug": "dep",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6243d59aa6882579deb14ae1"
+  },
+  "name": "giày",
+  "price": "507000",
+  "image": "https://giaynamvip.com/upload/product/gnk137/giay-nam-dep-da-bo-that-kieu-dang-the-thao-nam-tinh.jpg",
+  "decs": "giay nam",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "giay nam",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6259774cdc9307a14f0bb242"
+  },
+  "name": "váy nữ",
+  "price": "537000",
+  "image": "https://chomuabanonline.com/wp-content/uploads/2020/03/f0febf86b4474f19165627.jpg",
+  "decs": "vay nu",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "vay nu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6259778fdc9307a14f0bb243"
+  },
+  "name": "vớ",
+  "price": "5000",
+  "image": "data:image/jpeg;base64,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",
+  "decs": "vớ nam",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "vo nam",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62597822dc9307a14f0bb245"
+  },
+  "name": "áo thuân",
+  "price": "120000",
+  "image": "https://thoitrangmantis.com/wp-content/uploads/2019/01/ao-phong-co-tron-meo-3d1-ngoc.jpg",
+  "slug": "aos thuan",
+  "deleted": false,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648191105755"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6259784edc9307a14f0bb246"
+  },
+  "name": "áo khoát",
+  "price": "300000",
+  "image": "https://i.pinimg.com/236x/91/91/a6/9191a6235747120af64704e5ddd150bd--%C3%A1o-kho%C3%A1c-nam-polo-jackets.jpg",
+  "slug": "ao khoat nam",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648176966725"
+    }
+  },
+  "deleted": false
+},{
+  "_id": {
+    "$oid": "62597859dc9307a14f0bb247"
+  },
+  "name": "đồ công sở",
+  "price": "10000000",
+  "image": "https://xstdream.com/wp-content/uploads/2021/07/vest-3-e1625558099306.jpeg",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647445863697"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1647445863697"
+    }
+  },
+  "slug": "do cong so1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6259785fdc9307a14f0bb248"
+  },
+  "name": "giày",
+  "price": "507000",
+  "image": "https://giaynamvip.com/upload/product/gnk137/giay-nam-dep-da-bo-that-kieu-dang-the-thao-nam-tinh.jpg",
+  "decs": "giay nam",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "giay nam1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62597869dc9307a14f0bb249"
+  },
+  "name": "vớ",
+  "price": "5000",
+  "image": "data:image/jpeg;base64,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",
+  "decs": "vớ nam",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "vo nam1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625978d0dc9307a14f0bb24a"
+  },
+  "name": "váy nữ",
+  "price": "537000",
+  "image": "https://chomuabanonline.com/wp-content/uploads/2020/03/f0febf86b4474f19165627.jpg",
+  "decs": "vay nu",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "vays nu",
+  "__v": 0
+}]

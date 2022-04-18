@@ -1,0 +1,211 @@
+[{
+  "_id": {
+    "$oid": "625a91b78d6455cf2dfbe6d6"
+  },
+  "image": "https://product.hstatic.net/1000219425/product/vonganvomautronvosocvomautrang_56b9e15916284ed3801c685a6172786b_large.jpg",
+  "name": "Vớ ngắn màu trơn sọc",
+  "slug": "vo-ngan-mau-tron-soc",
+  "decs": "",
+  "price": "49000"
+},{
+  "_id": {
+    "$oid": "62309c87dce5bf27dab3d424"
+  },
+  "name": "Bộ vớ dài 3 đôi nước ngọt",
+  "price": "299000",
+  "image": "https://product.hstatic.net/1000219425/product/vodaipepsivonamnuvomauden_6bebb9033a52463788006a878af12916_large.jpg",
+  "slug": "bo-vo-dai-3-doi-nuoc-ngot",
+  "deleted": false,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648191105755"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6230a629dce5bf27dab3d425"
+  },
+  "name": "Bộ vớ 5 đôi họa tiết trâu năm mới",
+  "price": "299000",
+  "image": "https://product.hstatic.net/1000219425/product/vonganhoatiettraunammoivonamnuvomaudo_3b0efc4dc3ac4779ad0597da032063aa_large.jpg",
+  "slug": "bo-vo-5-doi-hoa-tiet-trau-nam-moi",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648176966725"
+    }
+  },
+  "deleted": false
+},{
+  "_id": {
+    "$oid": "6230a664dce5bf27dab3d426"
+  },
+  "name": "Bộ vớ ngắn 5 đôi nước ngọt",
+  "price": "299000",
+  "image": "https://product.hstatic.net/1000219425/product/bovongan5doinuocngotvonamnu_028706d4972e4b649ae09e57e1fcf464_large.jpg",
+  "slug": "Bộ vớ ngắn 5 đôi nước ngọt",
+  "deleted": false,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648191107108"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62320767f7f45bea3b7a84e9"
+  },
+  "name": "Combo vớ 7 ngày",
+  "price": "349000",
+  "image": "https://product.hstatic.net/1000219425/product/vohinhcombothuvonamnuvomausac_34a5315a9c6041298950d3f167823d3b_large.jpg",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647445863697"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1647445863697"
+    }
+  },
+  "slug": "Combo vớ 7 ngày",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62426ecd3dff55b78b0a2f50"
+  },
+  "name": "Vớ hoạ tiết cá bơi Nhật Bản",
+  "price": "49000",
+  "image": "https://product.hstatic.net/1000219425/product/96b6a43d00c1fc9fa5d0__1__86a8302270e2455dbba2e3a7ebd21007_large.jpg",
+  "deleted": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648520909957"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648521476147"
+    }
+  },
+  "slug": "Vớ hoạ tiết cá bơi Nhật Bản",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6243d59aa6882579deb14ae1"
+  },
+  "name": "Vớ trung họa tiết vịt",
+  "price": "69000",
+  "image": "https://product.hstatic.net/1000219425/product/votrunghoatietvitvomauxanhvomautrangvonamnu_d06b4eb5077347f2905de89f0d4a4ae4_large.jpg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Vớ trung họa tiết vịt",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62597a12dc9307a14f0bb24d"
+  },
+  "name": "Vớ ngắn họa tiết thổ cẩm",
+  "price": "49000",
+  "image": "https://product.hstatic.net/1000219425/product/vonganthocamvonamnuvomaudo_e61e631b3ec24deaab808652722b6bca_large.png",
+  "slug": "Vớ ngắn họa tiết thổ cẩm",
+  "deleted": false,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648191105755"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62597a30dc9307a14f0bb24f"
+  },
+  "name": "Vớ trung kết hợp khối màu",
+  "price": "79000",
+  "image": "https://product.hstatic.net/1000219425/product/votrungkethopkhoimauvonamnuvomauxanhduongw_070444d21dc242e7beb579fbc0d56934_large.jpg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Vớ trung kết hợp khối màu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62597a4cdc9307a14f0bb250"
+  },
+  "name": "Combo vớ ngắn 7 ngày",
+  "price": "329000",
+  "image": "https://product.hstatic.net/1000219425/product/bovo7ngayvonamnuvomautram_abbb1eafca6645ae9124da45430ecd08_large.jpg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Combo vớ ngắn 7 ngày",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62597a7edc9307a14f0bb251"
+  },
+  "name": "Vớ ngắn họa tiết quân bài",
+  "price": "49000",
+  "image": "https://product.hstatic.net/1000219425/product/vonganhoatietquanbaivangdenvonamnu_bd82141980554c65a214528bb375543e_large.jpg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Vớ ngắn họa tiết quân bài",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62597aacdc9307a14f0bb252"
+  },
+  "name": "Vớ dài họa tiết may mắn",
+  "price": "79000",
+  "image": "https://product.hstatic.net/1000219425/product/vodaihinhmayman_328006bb06f74c9897ec11ec2291bc64_large.jpg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Vớ dài họa tiết may mắn",
+  "__v": 0
+}]

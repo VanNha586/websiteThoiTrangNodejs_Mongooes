@@ -1,0 +1,223 @@
+[{
+  "_id": {
+    "$oid": "62309c87dce5bf27dab3d424"
+  },
+  "name": "Dép puma White",
+  "price": "450000",
+  "image": "https://cdn.vortexs.io/api/images/b1fc8d89-398f-40bf-bfa4-d5395a5d1ea9/375/w/dep-puma-white-382736-01.jpeg",
+  "slug": "Dép puma White",
+  "deleted": false,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648191105755"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6230a629dce5bf27dab3d425"
+  },
+  "name": "Dép Puma Cool ",
+  "price": "750000",
+  "image": "https://cdn.vortexs.io/api/images/4d72450a-b5de-4a17-a8af-bc436d0c7ab9/375/w/dep-puma-cool-cat-white-mutilcolor-375396-02.jpeg",
+  "slug": "Dép Puma Cool Cat White Mutilcolor [375396 02]",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648176966725"
+    }
+  },
+  "deleted": false
+},{
+  "_id": {
+    "$oid": "6230a664dce5bf27dab3d426"
+  },
+  "name": "Dép Tommy Hilfiger\n",
+  "price": "400000",
+  "image": "https://cdn.vortexs.io/api/images/fc07d03d-599d-4b02-a9d5-d2e952edcf29/375/w/dep-tommy-hilfiger-dippi-flag-slide-white-multi-o.jpeg",
+  "slug": "Dép Tommy Hilfiger Dippi Flag Slide White Multi * [ O ]",
+  "deleted": false,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648191107108"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62320767f7f45bea3b7a84e9"
+  },
+  "name": "Dép New Balance",
+  "price": "550000",
+  "image": "https://cdn.vortexs.io/api/images/84ae540e-f0f1-45ff-b7fb-6c7189e851e8/375/w/dep-new-balance-black-white-sd230bk.jpeg",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647445863697"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1647445863697"
+    }
+  },
+  "slug": "Dép New Balance Black White [SD230BK]",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62426ecd3dff55b78b0a2f50"
+  },
+  "name": "Dép Puma Softride",
+  "price": "550000",
+  "image": "https://cdn.vortexs.io/api/images/3ebe7858-8361-416b-8e09-bae30f405c4c/375/w/dep-puma-softride-black-white-382112-01-cuc-ki-em-nhat-cua-hang-puma.jpeg",
+  "deleted": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648520909957"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648521476147"
+    }
+  },
+  "slug": "Dép Puma Softride Black White [382112 01] ( CỰC KÌ ÊM NHẤT CỦA HÃNG PUMA )",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6243d59aa6882579deb14ae1"
+  },
+  "name": "Dép Puma Cool",
+  "price": "700000",
+  "image": "https://cdn.vortexs.io/api/images/d2ae39ba-0e94-4a52-8901-7c03b347f85a/375/w/dep-puma-cool-cat-sport-retro-navy-red-white-37384703.jpeg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Dép Puma Cool Cat Sport Retro (Navy / Red / White) 37384703",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62597a12dc9307a14f0bb24d"
+  },
+  "name": "Dép Puma Cool",
+  "price": "600000",
+  "image": "https://cdn.vortexs.io/api/images/51c1d74b-365b-4a6a-96b0-5a6e9a1818a5/375/w/dep-puma-cool-cat-green-camo-373849-01.jpeg",
+  "slug": "Dép Puma Cool Cat Green Camo [373849 01]",
+  "deleted": false,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648191105755"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62597a30dc9307a14f0bb24f"
+  },
+  "name": "Dép Nike Asuna",
+  "price": "650000",
+  "image": "https://cdn.vortexs.io/api/images/d02c01df-3b73-433a-8768-e3c34cc0111c/375/w/dep-nike-asuna-slide-black-white-cw9707-002-o.jpeg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Dép Nike Asuna Slide 'Black White' [CW9707-002] [O]",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62597a4cdc9307a14f0bb250"
+  },
+  "name": "Dép Adidas Adilette",
+  "price": "600000",
+  "image": "https://cdn.vortexs.io/api/images/23cadd33-6d0d-416e-a49a-2a7c711e891c/375/w/dep-adidas-adilette-shower-black-white-aq1701-o.jpeg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Dép Adidas Adilette Shower Black/White ** [AQ1701] [O]",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62597a7edc9307a14f0bb251"
+  },
+  "name": "Dép Nike Victori",
+  "price": "400000",
+  "image": "https://cdn.vortexs.io/api/images/3e7e82b2-ab80-4224-b398-1f43ca2a69f5/375/w/dep-nike-victori-one-slide-mix-white-black-dd0234-100.jpeg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Dép Nike Victori One Slide Mix 'White Black' [DD0234-100]",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62597aacdc9307a14f0bb252"
+  },
+  "name": "Dép Adidas Alphabounce",
+  "price": "900000",
+  "image": "https://cdn.vortexs.io/api/images/8fa7af28-e0ad-4120-bc54-68018a35d1dc/375/w/dep-adidas-alphabounce-slide-black-white-fz0387.jpeg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Dép Adidas Alphabounce Slide 'Black White' [FZ0387]",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62597acedc9307a14f0bb253"
+  },
+  "name": "Dép Puma Suede",
+  "price": "900000",
+  "image": "https://cdn.vortexs.io/api/images/f5bdfa47-29b0-43e6-9a3e-bdaad05f8a81/375/w/70-saleoff-dep-puma-suede-leadcat-sandals-baby-pink-ss22.jpeg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "FLASH EVENT 70% Dép Puma Suede Leadcat Sandals Black GOLD ***NEW***",
+  "__v": 0
+}]

@@ -1,0 +1,235 @@
+[{
+  "_id": {
+    "$oid": "62309c87dce5bf27dab3d424"
+  },
+  "name": "Đầm Suông Sát Nách Eo Xếp Đơn Giản Xinh Xắn",
+  "price": "200000",
+  "image": "https://vada.vn/wp-content/uploads/2019/08/chuyen-si-vay-dam-gia-re-shop-khoi-nghip-chuyen-si-vay-dam-00016834-1-310x413.jpg",
+  "slug": "Đầm Suông Sát Nách Eo Xếp Đơn Giản Xinh Xắn",
+  "deleted": false,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648191105755"
+    }
+  },
+  "price_old": "237000"
+},{
+  "_id": {
+    "$oid": "6230a629dce5bf27dab3d425"
+  },
+  "name": "Đầm Xoè Tầng Tay Ngắn In Hoa 3D Siêu Xinh",
+  "price": "260000",
+  "image": "https://vada.vn/wp-content/uploads/2019/08/chuyen-si-vay-dam-gia-re-shop-khoi-nghip-chuyen-si-vay-dam-00016834-2-310x413.jpg",
+  "slug": "Đầm Xoè Tầng Tay Ngắn In Hoa 3D Siêu Xinh",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648176966725"
+    }
+  },
+  "deleted": false,
+  "price_old": "295000"
+},{
+  "_id": {
+    "$oid": "6230a664dce5bf27dab3d426"
+  },
+  "name": "Đầm Suông Phối Lưới Viền Màu So Cute",
+  "price": "160000",
+  "image": "https://vada.vn/wp-content/uploads/2019/08/chuyen-si-vay-dam-gia-re-shop-khoi-nghip-chuyen-si-vay-dam-00016834-7-310x413.jpg",
+  "slug": "Đầm Suông Phối Lưới Viền Màu So Cute",
+  "deleted": false,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648191107108"
+    }
+  },
+  "price_old": "190000"
+},{
+  "_id": {
+    "$oid": "62320767f7f45bea3b7a84e9"
+  },
+  "name": "Đầm Xoè Tay Lỡ In Hoa 3D Siêu Hot",
+  "price": "240000",
+  "image": "https://vada.vn/wp-content/uploads/2019/08/chuyen-si-vay-dam-gia-re-shop-khoi-nghip-chuyen-si-vay-dam-00016834-10-310x413.jpg",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647445863697"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1647445863697"
+    }
+  },
+  "slug": "Đầm Xoè Tay Lỡ In Hoa 3D Siêu Hot",
+  "__v": 0,
+  "price_old": "275000"
+},{
+  "_id": {
+    "$oid": "62426ecd3dff55b78b0a2f50"
+  },
+  "name": "Đầm Xoè Cổ Vuông Phối Lưới Tùng Dập Ly So Iu",
+  "price": "240000",
+  "image": "https://vada.vn/wp-content/uploads/2019/08/chuyen-si-vay-dam-gia-re-shop-khoi-nghip-chuyen-si-vay-dam-00016834-13-310x413.jpg",
+  "deleted": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648520909957"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648521476147"
+    }
+  },
+  "slug": "Đầm Xoè Cổ Vuông Phối Lưới Tùng Dập Ly So Iu",
+  "__v": 0,
+  "price_old": "275000"
+},{
+  "_id": {
+    "$oid": "6243d59aa6882579deb14ae1"
+  },
+  "name": "OUTLET - Áo khoác New Normal Jacket - Đen",
+  "price": "399000",
+  "image": "https://vada.vn/wp-content/uploads/2019/08/chuyen-si-vay-dam-gia-re-shop-khoi-nghip-chuyen-si-vay-dam-00016834-13-310x413.jpg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "OUTLET - Áo khoác New Normal Jacket - Đen",
+  "__v": 0,
+  "price_old": "799000"
+},{
+  "_id": {
+    "$oid": "62597a12dc9307a14f0bb24d"
+  },
+  "name": "Đầm Suông 2 Dây Viền Ren Siêu Dễ Thương",
+  "price": "220000",
+  "image": "https://vada.vn/wp-content/uploads/2019/08/chuyen-si-vay-dam-gia-re-shop-khoi-nghip-chuyen-si-vay-dam-0001681-19-310x413.jpg",
+  "slug": "Đầm Suông 2 Dây Viền Ren Siêu Dễ Thương",
+  "deleted": false,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648191105755"
+    }
+  },
+  "price_old": "255000"
+},{
+  "_id": {
+    "$oid": "62597a30dc9307a14f0bb24f"
+  },
+  "name": "Đầm Suông Bèo Lai Cổ Lọ Kèm Belt So Cute",
+  "price": "240000",
+  "image": "https://vada.vn/wp-content/uploads/2019/08/chuyen-si-vay-dam-gia-re-shop-khoi-nghip-chuyen-si-vay-dam-0001681-5-310x413.jpg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Đầm Suông Bèo Lai Cổ Lọ Kèm Belt So Cute",
+  "__v": 0,
+  "price_old": "280000"
+},{
+  "_id": {
+    "$oid": "62597a4cdc9307a14f0bb250"
+  },
+  "name": "Đầm Xoè Cổ Vuông Xếp Eo Kèm Belt Dễ Thương",
+  "price": "230000",
+  "image": "https://vada.vn/wp-content/uploads/2019/08/chuyen-si-vay-dam-gia-re-shop-khoi-nghip-chuyen-si-vay-dam-0001681-6-310x413.jpg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Đầm Xoè Cổ Vuông Xếp Eo Kèm Belt Dễ Thương",
+  "__v": 0,
+  "price_old": "270000"
+},{
+  "_id": {
+    "$oid": "62597a7edc9307a14f0bb251"
+  },
+  "name": "Đầm Xoè Sọc Sơ Mi Eo Kèm Dây Cột",
+  "price": "240000",
+  "image": "https://vada.vn/wp-content/uploads/2019/08/chuyen-si-vay-dam-gia-re-shop-khoi-nghip-chuyen-si-vay-dam-0001681-8-310x413.jpg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Đầm Xoè Sọc Sơ Mi Eo Kèm Dây Cột",
+  "__v": 0,
+  "price_old": "275000"
+},{
+  "_id": {
+    "$oid": "62597aacdc9307a14f0bb252"
+  },
+  "name": "Đầm Boddy Lưới Chấm Bi Eo Kết Hoa",
+  "price": "230000",
+  "image": "https://vada.vn/wp-content/uploads/2019/08/chuyen-si-vay-dam-gia-re-shop-khoi-nghip-chuyen-si-vay-dam-0001681-12-310x413.jpg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Đầm Boddy Lưới Chấm Bi Eo Kết Hoa",
+  "__v": 0,
+  "price_old": "265000"
+},{
+  "_id": {
+    "$oid": "62597acedc9307a14f0bb253"
+  },
+  "name": "Đầm Xoè Tay Ngắn In 3D Cột Nơ Cổ Siêu Iu",
+  "price": "240000",
+  "image": "https://vada.vn/wp-content/uploads/2019/08/chuyen-si-vay-dam-gia-re-shop-khoi-nghip-chuyen-si-vay-dam-0001681-20-310x413.jpg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Đầm Xoè Tay Ngắn In 3D Cột Nơ Cổ Siêu Iu",
+  "__v": 0,
+  "price_old": "275000"
+}]

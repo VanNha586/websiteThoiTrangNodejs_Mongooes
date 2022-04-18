@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "62319df197dff967358a78cb"
+  },
+  "name": "áo thun",
+  "price": "123000",
+  "image": "https://inaodep.vn/upload/Image/Inaohoathinhlayngay/in-ao-hoat-hinh-lay-ngay-tanbinh%20(2).jpg",
+  "slug": "ao thun",
+  "deleted": true,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648180429843"
+    }
+  },
+  "decs": "Chất liệu: vải sạn dày dặn lên phom, nữ tính. Với thiết kế ly dập tỉ mỉ, tạo đường dập thẳng đều, chỉn chu. Kết hợp dễ dàng với các loại sơ mi, áo kiểu. Phù hợp cho chị em mặc đi làm hàng ngày, đi dạo phố hoặc có thể mặc tại nhà cũng đều rất thoải mái."
+},{
+  "_id": {
+    "$oid": "62319e7797dff967358a78cc"
+  },
+  "name": "áo thun",
+  "price": "123000",
+  "image": "https://inaodep.vn/upload/Image/Inaohoathinhlayngay/in-ao-hoat-hinh-lay-ngay-tanbinh%20(2).jpg",
+  "slug": "ao thun",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648953083819"
+    }
+  },
+  "deleted": false
+},{
+  "_id": {
+    "$oid": "625bb5bed4789d72a54b2224"
+  },
+  "image": "https://pt2000.com.vn/wp-content/uploads/2022/04/AP-2838N-0WH00-300K-3-500x500.jpg",
+  "name": "Áo thun nam tay ngắn (AP-2838N)",
+  "slug": "Áo thun nam tay ngắn (AP-2838N)",
+  "price": "300000"
+},{
+  "_id": {
+    "$oid": "625bb5bed4789d72a54b2225"
+  },
+  "image": "https://pt2000.com.vn/wp-content/uploads/2022/04/AP-2836N-0HC75-260K-500x500.jpg",
+  "name": "Áo thun nam tay ngắn (AP-2836N)",
+  "slug": "Áo thun nam tay ngắn (AP-2836N)",
+  "price": "260000"
+},{
+  "_id": {
+    "$oid": "625bb5bfd4789d72a54b2226"
+  },
+  "image": "https://pt2000.com.vn/wp-content/uploads/2022/04/AP-2787N-SRT00-300K-500x500.jpg",
+  "name": "Áo thun nam tay ngắn (AP-2787N)",
+  "slug": "Áo thun nam tay ngắn (AP-2787N)",
+  "price": "300000"
+},{
+  "_id": {
+    "$oid": "625bb5bfd4789d72a54b2227"
+  },
+  "image": "https://pt2000.com.vn/wp-content/uploads/2022/04/AP-2764N-SXY58-340K-500x500.jpg",
+  "name": "Áo thun nam tay ngắn (AP-2764N)",
+  "slug": "Áo thun nam tay ngắn (AP-2764N)",
+  "price": "340000"
+},{
+  "_id": {
+    "$oid": "625bb5bfd4789d72a54b2228"
+  },
+  "image": "https://pt2000.com.vn/wp-content/uploads/2022/02/AP-2834N-0WH00-260K-500x500.jpg",
+  "name": "Áo thun nam tay ngắn (AP-2834N)",
+  "slug": "Áo thun nam tay ngắn (AP-2834N)",
+  "price": "260000"
+},{
+  "_id": {
+    "$oid": "625bb5bfd4789d72a54b2229"
+  },
+  "image": "https://pt2000.com.vn/wp-content/uploads/2021/01/AP-2824N-260K-500x500.jpg",
+  "name": "Áo thun nam tay ngắn (AP-2824N)",
+  "slug": "Áo thun nam tay ngắn (AP-2824N)",
+  "price": "260000"
+},{
+  "_id": {
+    "$oid": "625bb5bfd4789d72a54b222a"
+  },
+  "image": "https://pt2000.com.vn/wp-content/uploads/2022/01/AP-2810N-0BI21-240K-a-500x500.jpg",
+  "name": "Áo thun nam tay ngắn (AP-2810N)",
+  "slug": "Áo thun nam tay ngắn (AP-2810N)",
+  "price": "240000"
+},{
+  "_id": {
+    "$oid": "625bb5c0d4789d72a54b222b"
+  },
+  "image": "https://pt2000.com.vn/wp-content/uploads/2022/01/AP-2820N-0HN76-260K-500x500.jpg",
+  "name": "Áo thun nam tay ngắn (AP-2820N)",
+  "slug": "Áo thun nam tay ngắn (AP-2820N)",
+  "price": "260000"
+},{
+  "_id": {
+    "$oid": "625bb6d8d4789d72a54b2274"
+  },
+  "image": "https://pt2000.com.vn/wp-content/uploads/2021/03/AP-2782N-0XG42-250K-500x500.jpg",
+  "name": "Áo thun nam tay ngắn (AP-2782N)",
+  "slug": "Áo thun nam tay ngắn (AP-2782N)",
+  "price": "250000"
+},{
+  "_id": {
+    "$oid": "625bb6d9d4789d72a54b2275"
+  },
+  "image": "https://pt2000.com.vn/wp-content/uploads/2021/03/AP-2780N-0RT00-250K-1-500x500.jpg",
+  "name": "Áo thun nam tay ngắn (AP-2780N)",
+  "slug": "Áo thun nam tay ngắn (AP-2780N)",
+  "price": "250000"
+},{
+  "_id": {
+    "$oid": "625bb70ed4789d72a54b2286"
+  },
+  "image": "https://pt2000.com.vn/wp-content/uploads/2021/05/AP-2792N-0CA00-250K-500x500.jpg",
+  "name": "Áo thun nam tay ngắn (AP-2792N)",
+  "slug": "Áo thun nam tay ngắn (AP-2792N)",
+  "price": "250000"
+}]

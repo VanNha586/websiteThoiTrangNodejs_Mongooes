@@ -1,0 +1,235 @@
+[{
+  "_id": {
+    "$oid": "62309c87dce5bf27dab3d424"
+  },
+  "name": "Áo thun Cotton Compact in Care&Share phiên bản mới Typo Colorful - Đen",
+  "price": "234000",
+  "image": "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/April2022/CNs_den.jpg",
+  "slug": "Áo thun Cotton Compact in Care&Share phiên bản mới Typo Colorful - Đen",
+  "deleted": false,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648191105755"
+    }
+  },
+  "price_old": "259000"
+},{
+  "_id": {
+    "$oid": "6230a629dce5bf27dab3d425"
+  },
+  "name": "Áo thun Cotton Compact in Care&Share phiên bản mới Typo Colorful - Trắng",
+  "price": "234000",
+  "image": "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/April2022/CNs_trang.jpg",
+  "slug": "Áo thun Cotton Compact in Care&Share phiên bản mới Typo Colorful - Trắng",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648176966725"
+    }
+  },
+  "deleted": false,
+  "price_old": "259000"
+},{
+  "_id": {
+    "$oid": "6230a664dce5bf27dab3d426"
+  },
+  "name": "Áo Polo nam Café - khử mùi hiệu quả - Đỏ",
+  "price": "329000",
+  "image": "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/November2021/IMG_5641.jpg",
+  "slug": "Áo Polo nam Café - khử mùi hiệu quả - Đỏ",
+  "deleted": false,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648191107108"
+    }
+  },
+  "price_old": "773000"
+},{
+  "_id": {
+    "$oid": "62320767f7f45bea3b7a84e9"
+  },
+  "name": "Áo Polo nam Café - khử mùi hiệu quả - Đen",
+  "price": "329000",
+  "image": "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/November2021/IMG_5250.jpg",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647445863697"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1647445863697"
+    }
+  },
+  "slug": "Áo Polo nam Café - khử mùi hiệu quả - Đen",
+  "__v": 0,
+  "price_old": ""
+},{
+  "_id": {
+    "$oid": "62426ecd3dff55b78b0a2f50"
+  },
+  "name": "Áo Polo nam Café - khử mùi hiệu quả - Xám nhạt",
+  "price": "329000",
+  "image": "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/November2021/IMG_5386.jpg",
+  "deleted": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648520909957"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648521476147"
+    }
+  },
+  "slug": "Áo Polo nam Café - khử mùi hiệu quả - Xám nhạt",
+  "__v": 0,
+  "price_old": ""
+},{
+  "_id": {
+    "$oid": "6243d59aa6882579deb14ae1"
+  },
+  "name": "OUTLET - Áo khoác New Normal Jacket - Đen",
+  "price": "399000",
+  "image": "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/January2022/9-11_(2)_copyu.jpg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "OUTLET - Áo khoác New Normal Jacket - Đen",
+  "__v": 0,
+  "price_old": "799000"
+},{
+  "_id": {
+    "$oid": "62597a12dc9307a14f0bb24d"
+  },
+  "name": "OUTLET - Áo khoác New Normal Jacket - Xanh Navy",
+  "price": "399000",
+  "image": "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/January2022/10_copyu.jpg",
+  "slug": "OUTLET - Áo khoác New Normal Jacket - Xanh Navy",
+  "deleted": false,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648191105755"
+    }
+  },
+  "price_old": "799000"
+},{
+  "_id": {
+    "$oid": "62597a30dc9307a14f0bb24f"
+  },
+  "name": "Áo Polo nam Excool - Xám",
+  "price": "339000",
+  "image": "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/March2022/dgrey2_1_copy.jpg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Áo Polo nam Excool - Xám",
+  "__v": 0,
+  "price_old": "399000"
+},{
+  "_id": {
+    "$oid": "62597a4cdc9307a14f0bb250"
+  },
+  "name": "Áo Polo thể thao nam ProMax-S1 Logo thoáng khí - Trắng",
+  "price": "239000",
+  "image": "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/March2022/pros121s.jpg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Áo Polo thể thao nam ProMax-S1 Logo thoáng khí - Trắng",
+  "__v": 0,
+  "price_old": ""
+},{
+  "_id": {
+    "$oid": "62597a7edc9307a14f0bb251"
+  },
+  "name": "Áo sát nách thể thao nam Dri-Breathe thoáng mát tối đa - Xanh rêu",
+  "price": "189000",
+  "image": "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/January2022/dri-reu1.jpg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Áo sát nách thể thao nam Dri-Breathe thoáng mát tối đa - Xanh rêu",
+  "__v": 0,
+  "price_old": ""
+},{
+  "_id": {
+    "$oid": "62597aacdc9307a14f0bb252"
+  },
+  "name": "Áo sát nách thể thao nam Dri-Breathe thoáng mát tối đa - Xám Xanh",
+  "price": "189000",
+  "image": "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/December2021/drixam.jpg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Áo sát nách thể thao nam Dri-Breathe thoáng mát tối đa - Xám Xanh",
+  "__v": 0,
+  "price_old": ""
+},{
+  "_id": {
+    "$oid": "62597acedc9307a14f0bb253"
+  },
+  "name": "Outlet - Áo Polo thể thao nam Superior Quick Dry - Siêu nhẹ - Xanh Aqua",
+  "price": "129000",
+  "image": "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/November2021/usupe3u2.jpg",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Outlet - Áo Polo thể thao nam Superior Quick Dry - Siêu nhẹ - Xanh Aqua",
+  "__v": 0,
+  "price_old": "219000"
+}]

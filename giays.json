@@ -1,0 +1,235 @@
+[{
+  "_id": {
+    "$oid": "62309c87dce5bf27dab3d424"
+  },
+  "name": "Biti's Giày Thể Thao Nam Bitis Hunter Core Milky White DSMH03201TRG Màu Trắng Size 43",
+  "price": "684000",
+  "image": "https://p-vn.ipricegroup.com/756d4190d601d41f8b997837d0d38ac06a206fa9_0.jpg?position=14",
+  "slug": "Biti's Giày Thể Thao Nam Bitis Hunter Core Milky White DSMH03201TRG Màu Trắng Size 43",
+  "deleted": false,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648191105755"
+    }
+  },
+  "price_old": "694000"
+},{
+  "_id": {
+    "$oid": "6230a629dce5bf27dab3d425"
+  },
+  "name": "Biti's Giày Thể Thao Nam Hunter Core Refreshing Collection Sonik Blue DSMH06700TRG Trắng - 42",
+  "price": "671000",
+  "image": "https://p-vn.ipricegroup.com/c33d8be494edf2da764c50d1d7877cced1886241_0.jpg?position=16",
+  "slug": "Biti's Giày Thể Thao Nam Hunter Core Refreshing Collection Sonik Blue DSMH06700TRG Trắng - 42",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648176966725"
+    }
+  },
+  "deleted": false,
+  "price_old": "729000"
+},{
+  "_id": {
+    "$oid": "6230a664dce5bf27dab3d426"
+  },
+  "name": "Biti's Giày Thể Thao Nam Hunter Core Festive Breezer Black DSMH04200DEN Đen - 43",
+  "price": "758000",
+  "image": "https://p-vn.ipricegroup.com/31a3b208dadd3f5d12d86d2ead37c5fc622d08db_0.jpg?position=19",
+  "slug": "Biti's Giày Thể Thao Nam Hunter Core Festive Breezer Black DSMH04200DEN Đen - 43",
+  "deleted": false,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648191107108"
+    }
+  },
+  "price_old": "773000"
+},{
+  "_id": {
+    "$oid": "62320767f7f45bea3b7a84e9"
+  },
+  "name": "Mizuno Giày Bóng Chuyền",
+  "price": "300000",
+  "image": "https://p-vn.ipricegroup.com/uploaded_cd338f3d71112954980a6f587ffa1ff3.jpg?position=3",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647445863697"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1647445863697"
+    }
+  },
+  "slug": "Mizuno Giày Bóng Chuyền",
+  "__v": 0,
+  "price_old": ""
+},{
+  "_id": {
+    "$oid": "62426ecd3dff55b78b0a2f50"
+  },
+  "name": "Biti's Giày Thể Thao Nam Hunter Core Z Collection Stone DSMH06400DEN Đen - 43",
+  "price": "670000",
+  "image": "https://p-vn.ipricegroup.com/5774af8a1b7b06f93dc59e3a4a6d406af77c3cb4_0.jpg?position=15",
+  "deleted": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648520909957"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648521476147"
+    }
+  },
+  "slug": "Biti's Giày Thể Thao Nam Hunter Core Z Collection Stone DSMH06400DEN Đen - 43",
+  "__v": 0,
+  "price_old": "729000"
+},{
+  "_id": {
+    "$oid": "6243d59aa6882579deb14ae1"
+  },
+  "name": "Biti's Hunter Running x X-Men Go DSMH03901",
+  "price": "859000",
+  "image": "https://p-vn.ipricegroup.com/uploaded_17f0e7804e8fd8fb69653f1dee3176c1.jpg?position=4",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Biti's Hunter Running x X-Men Go DSMH03901",
+  "__v": 0,
+  "price_old": "874000"
+},{
+  "_id": {
+    "$oid": "62597a12dc9307a14f0bb24d"
+  },
+  "name": "Skechers Elite Flex",
+  "price": "459000",
+  "image": "https://p-vn.ipricegroup.com/uploaded_6583a4bb6695229a1db5bc3523bfaace.jpg?position=2",
+  "slug": "Skechers Elite Flex",
+  "deleted": false,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648191105755"
+    }
+  },
+  "price_old": "545000"
+},{
+  "_id": {
+    "$oid": "62597a30dc9307a14f0bb24f"
+  },
+  "name": "Biti's Giày Thể Thao Nam Bitis Hunter Core Milky White DSMH03201TRG Màu Trắng Size 44",
+  "price": "684000",
+  "image": "https://p-vn.ipricegroup.com/5aa00a1faca7bd6f85d656bcdf6976a6748c4183_0.jpg?position=11",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Biti's Giày Thể Thao Nam Bitis Hunter Core Milky White DSMH03201TRG Màu Trắng Size 44",
+  "__v": 0,
+  "price_old": "694000"
+},{
+  "_id": {
+    "$oid": "62597a4cdc9307a14f0bb250"
+  },
+  "name": "Biti's Giày Thể Thao Nam Hunter Core Z Collection Earth DSMH06400KED Kem Đậm - 43",
+  "price": "599000",
+  "image": "https://p-vn.ipricegroup.com/a84f32a877c425ac961e0e3db9b201ce79522192_0.jpg?position=9",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Biti's Giày Thể Thao Nam Hunter Core Z Collection Earth DSMH06400KED Kem Đậm - 43",
+  "__v": 0,
+  "price_old": "609000"
+},{
+  "_id": {
+    "$oid": "62597a7edc9307a14f0bb251"
+  },
+  "name": "Biti's Giày Thể Thao Nam Hunter Core Z Collection Stone DSMH06400DEN Đen - 41",
+  "price": "670000",
+  "image": "https://p-vn.ipricegroup.com/78e5c87bd08ba2bc0191597ebd84a919561116b0_0.jpg?position=8",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Biti's Giày Thể Thao Nam Hunter Core Z Collection Stone DSMH06400DEN Đen - 41",
+  "__v": 0,
+  "price_old": "680000"
+},{
+  "_id": {
+    "$oid": "62597aacdc9307a14f0bb252"
+  },
+  "name": "Mizuno Wave Lightning Z6 Mid Giày Bóng Chuyền",
+  "price": "650000",
+  "image": "https://p-vn.ipricegroup.com/uploaded_35d54fb16ea7dcc998d2b5aa8fa6e451.jpg?position=5",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Mizuno Wave Lightning Z6 Mid Giày Bóng Chuyền",
+  "__v": 0,
+  "price_old": ""
+},{
+  "_id": {
+    "$oid": "62597acedc9307a14f0bb253"
+  },
+  "name": "Biti's Giày Thể Thao Nam Hunter Core Refreshing Collection Sonik Blue DSMH06700TRG Trắng - 44",
+  "price": "670000",
+  "image": "https://p-vn.ipricegroup.com/4a20c40ca4b854138602150d6c11621034c35dff_0.jpg?position=7",
+  "decs": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648612762255"
+    }
+  },
+  "slug": "Biti's Giày Thể Thao Nam Hunter Core Refreshing Collection Sonik Blue DSMH06700TRG Trắng - 44",
+  "__v": 0,
+  "price_old": "680000"
+}]
