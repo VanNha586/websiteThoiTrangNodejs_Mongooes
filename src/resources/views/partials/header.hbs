@@ -1,0 +1,83 @@
+
+
+     <section class="header ">
+      <div class="wrap-header container">
+        <a href="/" class="header-logo"><span>wT </span>shop</a>
+        <ul class="menu text-uppercase" id="menu" style="margin:0;">
+          <li class="menu-item ">
+            <a href="/" class="menu-link">Home</a>
+          </li>
+          <li class="menu-item">
+            <a href="/product/product" class="menu-link">Products</a>
+          </li>
+          <li class="menu-item">
+            <a href="##" class="menu-link">About</a>
+          </li>
+          <li class="menu-item">
+            <a href="/contact/contact" class="menu-link">Contact</a>
+          </li>
+        </ul>
+        <div class="header-user">
+          <!-- snow -->
+          <a href="##"><i class="fa-solid fa-snowflake" id="header-snow"></i></a>
+          <!-- firework -->
+          <a href="##"><i class="fa-brands fa-first-order"id="header-firework"></i></a>
+          <!-- bars -->
+          <a href="##"><i class="fa-solid fa-bars" id="header-bar"></i></a>
+          <!-- Search -->
+          <a href="##"><i class="fa-solid fa-magnifying-glass" id="header-search"></i></a>
+          <!-- User -->
+          <a href="/login/login"><i class="fa-solid fa-user" id="header-user"></i></a>
+          <!-- Cart -->
+          <a href="/cart"><i class="fa-solid fa-cart-arrow-down" id="header-cart"></i>
+           {{#if session.cart.totalItems }}
+                <span>({{session.cart.totalItems}})</span>
+            {{/if}}</a>
+        </div>
+        <!-- search-box -->
+        <div class="header-search-box">
+          <input type="search" name="" id="" placeholder="Search..." />
+        </div>
+        <!-- cart-box -->
+            {{# if session.cart.totalItems }}
+        <div class="header-cart-box">
+          <!-- box1 -->
+           {{#each session.cart.items }}
+          <div class="box-cart">
+            <img src="{{this.item.image}}" alt="" />
+            <div class="cart-text">
+              <h5>{{this.item.name}}</h5>
+              <p>{{this.price}}</p>
+              <span>{{ this.quantity }}</span>
+            </div>
+            <a href="/cart"> <i class="fa-solid fa-trash"></i></a>
+          </div>
+          {{/each}}
+          <!-- box2 -->
+          <div class="box-cart">
+            <img src="../.././img/cart2.jpg" alt="" />
+            <div class="cart-text">
+              <h5>Name: Áo khoác 2</h5>
+              <p>Price:$10</p>
+              <span>Amount:1</span>
+            </div>
+            <a href="##!"> <i class="fa-solid fa-trash"></i></a>
+          </div>
+          <!-- box3 -->
+          <div class="box-cart">
+            <img src="../.././img/cart3.jpg" alt="" />
+            <div class="cart-text">
+              <h5>Name: Áo khoác 3</h5>
+              <p>Price:$10</p>
+              <span>Amount:1</span>
+            </div>
+            <a href="##!"> <i class="fa-solid fa-trash"></i></a>
+          </div>
+          <h2 class="total">Total: $30</h2>
+          <a href="##" class="btn">Checkout</a>
+        </div>
+     {{/if}}
+      </div>
+      </div>
+    </section>
+  

@@ -1,0 +1,99 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- font awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <title>Login</title>
+    <link rel="stylesheet" href="/css/app.css" />
+  </head>
+  <body>
+    <section class="wrapper">
+      <div class="imagebx">
+        <img src="../.././img/loginshopping.webp" alt="" />
+      </div>
+      <div class="contentbx">
+        <form method="POST" action="loginUser" class="formbx text-light">
+          <h2>Đăng nhập</h2>
+          <div class="inputbx">
+            <span>User</span>
+            <input type="text" name="username" placeholder="Tài khoản" />
+          </div>
+          <div class="inputbx">
+            <span>Password</span>
+            <input type="password" name="password" placeholder="Mật khẩu" />
+          </div>
+          <div class="remember">
+            <label for="">Remember me<input type="checkbox" name="" id="" /></label>
+          </div>
+          <div class="inputbx">
+            <a href="/"> <input type="submit" value="Đăng nhập" /></a>
+          </div>
+          <div class="inputbx">
+            <p>Don't have an account? <a href="#" class="sigup">Sign up</a></p>
+          </div>
+          <ul class="icons">
+            <li class="icon-item">
+              <a href="#" class="icon-link"><i class="fa-brands fa-facebook"></i></a>
+            </li>
+            <li class="icon-item">
+              <a href="#" class="icon-link"><i class="fa-brands fa-youtube"></i></a>
+            </li>
+            <li class="icon-item">
+              <a href="#" class="icon-link"><i class="fa-brands fa-twitter"></i></a>
+            </li>
+          </ul>
+        </form>
+      </div>
+      <div class="contentsigupbx">
+        <form method="POST" action="register" class="formsigupbx text-light">
+          <h2>Đăng kí</h2>
+          <div class="inputsigupbx">
+            <span>User</span>
+            <input type="text" name="username" placeholder="Tên tài khoản" />
+          </div>
+          <div class="inputsigupbx">
+            <span>Password</span>
+            <input type="password" name="password" placeholder="Mật khẩu" />
+          </div>
+          <div class="inputsigupbx">
+            <span>Enter your password</span>
+            <input type="password" placeholder="Nhập lại mật khẩu" required="true" />
+          </div>
+
+          <div class="inputsigupbx">
+            <input type="submit" value="Đăng kí" />
+          </div>
+          <div class="inputsigupbx">
+            <p>I have account <a href="#" class="login">Log in</a></p>
+          </div>
+          <ul class="icons">
+            <li class="icon-item">
+              <a href="#" class="icon-link"><i class="fa-brands fa-facebook"></i></a>
+            </li>
+            <li class="icon-item">
+              <a href="#" class="icon-link"><i class="fa-brands fa-youtube"></i></a>
+            </li>
+            <li class="icon-item">
+              <a href="#" class="icon-link"><i class="fa-brands fa-twitter"></i></a>
+            </li>
+          </ul>
+        </form>
+      </div>
+    </section>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script
+      type="text/javascript"
+      src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"
+    ></script>
+
+    <script src="/js//login_sigup.js"></script>
+  </body>
+</html>

@@ -1,0 +1,129 @@
+
+
+<div class="table-cart">
+    <div class="row">
+        <div class="col-lg-7">
+            <table class="table table-success table-striped">
+                <thead>
+                    <tr class="text-uppercase">
+                        <th scope="col">Sản phẩm</th>
+                        <th scope="col">Giá</th>
+                        <th scope="col">Số lượng</th>
+                        <th scope="col">Tạm tính</th>
+                    </tr>
+                </thead>
+                <tbody class="tbody-cart">
+                     {{#if Course }}
+                     {{#each Course }}
+                    <tr class="align-items-center">
+
+                        <td class="product-remove text-dark">
+                            <a href="/remove/{{{this.item._id}}}/delete"
+                                class="remove mr-2" aria-label="Xóa sản phẩm này" data-product_id="348"
+                                data-product_sku="">×</a>
+
+                            <a
+                                href="http://mauweb.monamedia.net/movic/sản%20phẩm/sandal-shoe-in-camellia/?attribute_pa_size=28&amp;attribute_pa_mau=hong"><img
+                                    style="width:100px;height:100px"
+                                    src="{{this.item.image}}"
+                                    class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt=""></a>
+                            <a
+                                class="pl-3"
+                                style="position: absolute;"
+                                href="http://mauweb.monamedia.net/movic/sản%20phẩm/ao-khoac/?attribute_pa_size=m&amp;attribute_pa_mau=nau">{{this.item.name}}</a>
+                        </td>
+                        <td class="product-price" data-title="Giá">
+                            <div class="wp-price ">
+                                <span class="woocommerce-Price-amount amount">{{this.price}}<span
+                                        class="woocommerce-Price-currencySymbol">₫</span></span>
+                            </div>
+                        </td>
+                        <td class="product-quantity" data-title="Số lượng">
+                            <div class="quantity buttons_added">
+                                {{!-- <input type="button" value="-" class="minus button is-form"> --}}
+                                <input type="number" id="quantity_6257dd2b0eca9" class="input-text qty text" step="1"
+                                    min="0" max="995" name="cart[6327a329b458ea969b31a3de56784cbc][qty]" value="{{this.quantity}}"
+                                    title="SL" size="4" inputmode="numeric">
+                                {{!-- <input type="button" value="+" class="plus button is-form">
+                            </div> --}}
+                        </td>
+                        <td class="product-subtotal" data-title="Tạm tính">
+                            <div class="wp-tatol">
+                                <span class="woocommerce-Price-amount amount">{{this.price}}<span
+                                        class="woocommerce-Price-currencySymbol">₫</span></span>
+                            </div>
+                        </td>
+
+
+
+                    </tr>
+                     {{/each}}
+                     {{ else }}
+                            Your shopping cart is empty.
+                    {{/if}}
+                    <tr>
+                        <td colspan="6" class="actions clear">
+
+
+                            <div class="continue-shopping pull-left text-left">
+                                <a class="button-continue-shopping button primary is-outline"
+                                    href="/">
+                                    ←&nbsp;Tiếp tục xem sản phẩm </a>
+                            </div>
+
+                            <button type="submit" class="button primary mt-0 pull-left small" name="update_cart"
+                                value="Cập nhật giỏ hàng">Cập nhật giỏ hàng</button>
+
+                            <input type="hidden" id="woocommerce-cart-nonce" name="woocommerce-cart-nonce"
+                                value="7a152e90c0"><input type="hidden" name="_wp_http_referer"
+                                value="/movic/gio-hang/">
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-5 text-light">
+            <table cellspacing="0">
+                <thead>
+                    <tr>
+                        <th class="product-name" colspan="2" style="border-width:3px; font-size:30px">Cộng giỏ hàng</th>
+                    </tr>
+                </thead>
+
+            </table>
+            <span class="hr"></span>
+            {{!-- --}}
+            <table cellspacing="0" class="shop_table shop_table_responsive">
+
+                <tbody>
+                    <tr class="cart-subtotal">
+                        <th>Tạm tính</th>
+                        <td data-title="Tạm tính"><span class="woocommerce-Price-amount amount">{{session.cart.totalPrice}}<span
+                                    class="woocommerce-Price-currencySymbol">₫</span></span>
+                        </td>
+                    </tr>
+                    <tr class="order-total">
+                        <th>Tổng</th>
+                        <td data-title="Tổng"><strong><span class="woocommerce-Price-amount amount">{{session.cart.totalPrice}}<span
+                                        class="woocommerce-Price-currencySymbol">₫</span></span></strong> </td>
+                    </tr>
+                </tbody>
+            </table>
+            <div class="checkout-pay">
+
+                <a href="cart/payCart" class="checkout-button button alt wc-forward">
+                    Tiến hành thanh toán</a>
+
+            </div>
+            <div>
+                <form class="checkout_coupon mb-0" method="post">
+                    <div class="coupon">
+                        <h3 class="widget-title"><i class="fa-solid fa-tag"></i> Phiếu ưu đãi</h3><input type="text"
+                            name="coupon_code" class="input-text" id="coupon_code" value="" placeholder="Mã ưu đãi">
+                        <input type="submit" class="is-form expand" name="apply_coupon" value="Áp dụng">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

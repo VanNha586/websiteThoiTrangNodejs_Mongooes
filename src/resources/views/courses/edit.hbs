@@ -1,0 +1,23 @@
+<div class="create-product">
+<div class="mt-4">
+    <h2>sửa sản phẩm</h2>
+    {{!-- doi post thanhf put --}}
+    <form class="mt-4" method="POST" action="/courses/{{course._id}}?_method=PUT">
+  <div class="form-group">
+    <label for="name">tên sản phẩm</label>
+    <input type="text" class="form-control" value="{{course.name}}" id="name" name="name">
+  </div>
+  <div class="form-group">
+    <label for="price">price</label>
+    <textarea class="form-control"  id="price" name="price">{{course.price}}</textarea>
+  </div>
+  <div class="form-group">
+    <label for="image">hình ảnh</label>
+    <input type="text" class="form-control" value="{{course.image}}" id="image" name="image">
+  </div>
+
+
+  <button type="submit" class="btn btn-primary">luu lai</button>
+</form>
+</div>
+</div>

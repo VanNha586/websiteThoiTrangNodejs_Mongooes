@@ -1,0 +1,223 @@
+<div class="row wp_main-pay" style="margin-top:98px">
+
+  <div class="col-lg-7 text-light">
+    <span class="hr"></span>
+    <h2 class="text-light">Thông tin thanh toán</h2>
+    <div class="row form_control_body">
+      <div class="col">
+        <label for="">Tên</label>
+        <input type="text" class="form-control" placeholder="Tên" aria-label="First name" />
+      </div>
+      <div class="col">
+        <label for="">Họ</label>
+
+        <input type="text" class="form-control" placeholder="Last name" aria-label="Họ" />
+      </div>
+
+    </div>
+    <div class="select_option">
+      <label for="">Quốc gia: </label>
+      <select
+        class="w-100 form-select form-select-lg mb-3 select_option-item"
+        aria-label=".form-select-lg example"
+      >
+        <option value="1">VietNam</option>
+        <option value="2">Chine</option>
+      </select>
+    </div>
+    <div class="row form_control_body">
+      <div class="col-6">
+        <label for="">Địa chỉ:</label>
+        <input type="text" class="form-control" placeholder="address" aria-label="address" />
+      </div>
+    </div>
+    <div class="row form_control_body">
+      <div class="col-12">
+        <label for="">Tỉnh / Thành phố:</label>
+        <input type="text" class="form-control" aria-label="address" />
+      </div>
+    </div>
+    <div class="row form_control_body">
+      <div class="col-12">
+        <label for="">Số điện thoại</label>
+        <input type="text" class="form-control" placeholder="Sđt" aria-label="address" />
+      </div>
+    </div>
+    <div class="row form_control_body">
+      <div class="col-12">
+        <label for="">Địa chỉ Email:</label>
+        <input type="text" class="form-control" placeholder="email" aria-label="address" />
+      </div>
+    </div>
+    <div class="row form_control_body">
+      <h2 class="ml-3">Thông tin bổ sung</h2>
+      <div class="form-floating col-lg-12">
+        <label for="floatingTextarea2">Ghi chú đơn hàng (tuỳ chọn)</label>
+        <textarea
+          class="form-control"
+          placeholder="Ghi chú về đơn hàng, ví dụ: thời gian hay chỉ dẫn địa điểm giao hàng chi tiết hơn."
+          id="floatingTextarea2"
+          style="height: 100px"
+        ></textarea>
+      </div>
+    </div>
+
+  </div>
+  <div class="col-lg-5 text-light">
+    <div class="col-inner has-border">
+      <div class="checkout-sidebar sm-touch-scroll">
+        <h3 id="order_review_heading " class="fw-bold mb-3">Đơn hàng của bạn</h3>
+
+        <div id="order_review" class="woocommerce-checkout-review-order">
+          <table class="shop_table woocommerce-checkout-review-order-table">
+            <thead>
+              <tr>
+                <th class="product-name">Sản phẩm</th>
+                <th class="product-total order-right">Tạm tính</th>
+              </tr>
+            </thead>
+            <tbody>
+
+              <tr class="cart_item">
+                <td class="product-nam">
+                  ÁO KHOÁC - M, Nâu&nbsp;
+                  <strong class="product-quantity">×&nbsp;1</strong>
+                </td>
+                {{! <td class="product-total">
+                  <span class="woocommerce-Price-amount amount order-right pb-2">590.000<span
+                      class="woocommerce-Price-currencySymbol"
+                    >₫</span></span>
+                </td> }}
+              </tr>
+            </tbody>
+            <tfoot class="pay_cart">
+
+              <tr class="cart-subtotal">
+                <th>Tạm tính</th>
+                <td><span class="woocommerce-Price-amount amount">590.000<span
+                      class="woocommerce-Price-currencySymbol"
+                    >₫</span></span></td>
+              </tr>
+
+              <tr class="order-total">
+                <th>Tổng</th>
+                <td><strong><span class="woocommerce-Price-amount amount">590.000<span
+                        class="woocommerce-Price-currencySymbol"
+                      >₫</span></span></strong>
+                </td>
+              </tr>
+
+            </tfoot>
+          </table>
+
+          <div id="payment" class="woocommerce-checkout-payment">
+            <ul class="wc_payment_methods payment_methods methods">
+              <li class="wc_payment_method payment_method_bacs">
+                <input
+                  id="payment_method_bacs"
+                  type="radio"
+                  class="input-radio"
+                  name="payment_method"
+                  value="bacs"
+                  checked="checked"
+                  aria-controls="#collapsev1"
+                  aria-toggle="collapse"
+                  data-order_button_text=""
+                />
+
+                <label for="payment_method_bacs">
+                  Chuyển khoản ngân hàng
+                </label>
+                <div id="#collapsev1" class="payment_box payment_method_bacs collapse">
+                  <p>Thực hiện thanh toán vào ngay tài khoản ngân hàng của chúng tôi. Vui lòng sử
+                    dụng Mã đơn hàng của bạn trong phần Nội dung thanh toán. Đơn hàng sẽ đươc giao
+                    sau khi tiền đã chuyển.</p>
+                </div>
+              </li>
+              <li class="wc_payment_method payment_method_cheque">
+                <input
+                  id="payment_method_cheque"
+                  type="radio"
+                  class="input-radio"
+                  name="payment_method"
+                  value="cheque"
+                  data-order_button_text=""
+                />
+
+                <label for="payment_method_cheque">
+                  Kiểm tra thanh toán
+                </label>
+                <div class="payment_box payment_method_cheque" style="display:none;">
+                  <p>Vui lòng gửi chi phiếu của bạn đến Tên cửa hàng, Đường của cửa hàng, Thị trấn
+                    của cửa hàng, Bang / Hạt của cửa hàng, Mã bưu điện cửa hàng.</p>
+                </div>
+              </li>
+              <li class="wc_payment_method payment_method_cod">
+                <input
+                  id="payment_method_cod"
+                  type="radio"
+                  class="input-radio"
+                  name="payment_method"
+                  value="cod"
+                  data-order_button_text=""
+                />
+
+                <label for="payment_method_cod">
+                  Trả tiền mặt khi nhận hàng
+                </label>
+                <div class="payment_box payment_method_cod" style="display:none;">
+                  <p>Trả tiền mặt khi giao hàng</p>
+                </div>
+              </li>
+            </ul>
+            <div class="form-row place-order">
+              <noscript>
+                Trình duyệt của bạn không hỗ trợ JavaScript, hoặc nó bị vô hiệu hóa, hãy đảm bảo bạn
+                nhấp vào
+                <em>Cập nhật giỏ hàng</em>
+                trước khi bạn thanh toán. Bạn có thể phải trả nhiều hơn số tiền đã nói ở trên, nếu
+                bạn không làm như vậy.
+                <br /><button
+                  type="submit"
+                  class="button alt"
+                  name="woocommerce_checkout_update_totals"
+                  value="Cập nhật tổng"
+                >Cập nhật tổng</button>
+              </noscript>
+
+              <div class="woocommerce-terms-and-conditions-wrapper wp-pay">
+
+              </div>
+
+              <button
+                type="submit"
+                class="button alt p-2 order_done order--hover"
+                name="woocommerce_checkout_place_order"
+                id="place_order"
+                value="Đặt hàng"
+                data-value="Đặt hàng"
+              >Đặt hàng</button>
+
+              <input
+                type="hidden"
+                id="woocommerce-process-checkout-nonce"
+                name="woocommerce-process-checkout-nonce"
+                value="dd52af525a"
+              /><input
+                type="hidden"
+                name="_wp_http_referer"
+                value="/movic/?wc-ajax=update_order_review"
+              />
+            </div>
+          </div>
+
+        </div>
+
+        <div class="woocommerce-privacy-policy-text policy-desc"><p>Thông tin cá nhân của bạn sẽ
+            được sử dụng để xử lý đơn hàng, tăng trải nghiệm sử dụng website, và cho các mục đích cụ
+            thể khác đã được mô tả trong .</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

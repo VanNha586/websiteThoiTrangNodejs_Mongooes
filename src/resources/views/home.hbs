@@ -1,0 +1,152 @@
+{{! 25.2 }}
+<section class="slider-stick container-fluid">
+  <div class="image-slider">
+    <div class="image-item">
+      <div class="image">
+        <img src="../.././img/slider1.jpg" alt="" />
+      </div>
+    </div>
+    <div class="image-item">
+      <div class="image">
+        <img src="../.././img/slider2.png" alt="" />
+      </div>
+    </div>
+    <div class="image-item">
+      <div class="image">
+        <img src="../.././img/slider3.jpg" alt="" />
+      </div>
+    </div>
+    <div class="image-item">
+      <div class="image">
+        <img src="../.././img/slider4.jpg" alt="" />
+      </div>
+    </div>
+  </div>
+</section>
+<section>
+  <div class="collection container-fluid">
+    <h2 class="collection-title home-title">New Collection</h2>
+    <div class="collection-classify">
+      <a href="javascript:void(0)" class="btn btn-white active">All</a>
+      <a href="javascript:void(0)" class="btn btn-white">Best Sellers</a>
+      <a href="javascript:void(0)" class="btn btn-white">Featured</a>
+      <a href="javascript:void(0)" class="btn btn-white">New Arrivals</a>
+    </div>
+    <div class="collection-image">
+      {{! <div class="mt-4">
+            <div class="row"> }}
+      {{! dùng để lặp các khoá học }}
+      {{#each courses}}
+        <div class="image-item">
+          <a href="/courses/{{this.slug}}">
+            <img class="card-img-top" name="image" src="{{this.image}}" alt="{{this.image}}" />
+          </a>
+          <span class="sale">sale</span>
+          <div class="collection-icons">
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+          </div>
+          <a href="/courses/{{this.slug}}" name="name">{{this.name}}</a>
+          <div class="coll-price">
+            <p class="price" name="price">{{this.price}}</p>
+            <p class="price" name="des">{{this.decs}}</p>
+            <span class="coll-cart"><a href="/add/{{this._id}}"><i
+                  class="fa-solid fa-cart-arrow-down collection-cart"
+                ></i></a></span>
+          </div>
+
+        </div>
+      {{/each}}
+      {{! </div>
+           </div> }}
+    </div>
+
+    <nav aria-label="Page navigation example">
+      <ul class="pagination justify-content-end">
+
+        <li class="page-item"><a class="page-link" href="javascript:void(0)">1</a></li>
+        <li class="page-item"><a class="page-link" href="javascript:void(0)">2</a></li>
+        <li class="page-item"><a class="page-link" href="javascript:void(0)">3</a></li>
+        <li class="page-item"><a class="page-link" href="javascript:void(0)">4</a></li>
+        <li class="page-item">
+          <a class="page-link" href="javascript:void(0)">Next</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</section>
+<section>
+  <div class="carousel container-fluid">
+    <div class="home-title">Suggest</div>
+    <div class="image-carousel">
+      <div class="carousel-item">
+        <a href="javascript:void(0)" class="image">
+          <img src="../.././img/carousel1.jpg" alt="" />
+        </a>
+      </div>
+      <div class="carousel-item">
+        <a href="javascript:void(0)" class="image">
+          <img src="../.././img/carousel2.jpg" alt="" />
+        </a>
+      </div>
+      <div class="carousel-item">
+        <a href="javascript:void(0)" class="image">
+          <img src="../.././img/carousel3.jpg" alt="" />
+        </a>
+      </div>
+      <div class="carousel-item">
+        <a href="javascript:void(0)" class="image">
+          <img src="../.././img/carousel4.jpg" alt="" />
+        </a>
+      </div>
+      <div class="carousel-item">
+        <a href="javascript:void(0)" class="image">
+          <img src="../.././img/carouse4.jpg" alt="" />
+        </a>
+      </div>
+      <div class="carousel-item">
+        <a href="javascript:void(0)" class="image">
+          <img src="../.././img/carousel5.png" alt="" />
+        </a>
+      </div>
+      <div class="carousel-item">
+        <a href="javascript:void(0)" class="image">
+          <img src="../.././img/carousel6.jpg" alt="" />
+        </a>
+      </div>
+      <div class="carousel-item">
+        <a href="javascript:void(0)" class="image">
+          <img src="../.././img/carousel7.jpg" alt="" />
+        </a>
+      </div>
+      <div class="carousel-item">
+        <a href="javascript:void(0)" class="image">
+          <img src="../.././img/carousel8.png" alt="" />
+        </a>
+      </div>
+      <div class="carousel-item">
+        <a href="javascript:void(0)" class="image">
+          <img src="../.././img/carousel9.png" alt="" />
+        </a>
+      </div>
+      <div class="carousel-item">
+        <a href="javascript:void(0)" class="image">
+          <img src="../.././img/carousel10.png" alt="" />
+        </a>
+      </div>
+      <div class="carousel-item">
+        <a href="javascript:void(0)" class="image">
+          <img src="../.././img/carousel11.png" alt="" />
+        </a>
+      </div>
+      <div class="carousel-item">
+        <a href="javascript:void(0)" class="image">
+          <img src="../.././img/carousel12.png" alt="" />
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
